@@ -1,8 +1,8 @@
 # 🧑‍💻 Gabriel Porto 
 
-**`Desenvolvedor Front End`**
+**`Desenvolvedor Web`**
 
-Sou Gabriel Martins Moraes Porto um desenvolvedor Front-End focado em criar interfaces modernas, responsivas e eficientes. Gosto de desafios e estou sempre buscando aprender novas tecnologias para aprimorar minhas habilidades. Tenho experiência com TypeScript, React.js, Next.js e MaterialUi, além de conhecimentos em versionamento de codigo com git.
+Sou Gabriel Martins Moraes Porto um desenvolvedor Web focado em criar interfaces modernas, responsivas e eficientes. Gosto de desafios e estou sempre buscando aprender novas tecnologias para aprimorar minhas habilidades. Tenho experiência com TypeScript, React.js, Next.js e MaterialUi, além de conhecimentos em versionamento de codigo com git.
 
 Atualmente, faço parte da equipe de desenvolvimento do Pharus - Gestão de Eventos, a plataforma oficial de gerenciamento de eventos do IFNMG, onde atuo na construção e aprimoramento da interface do sistema.🚀
 
