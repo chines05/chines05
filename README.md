@@ -6,7 +6,7 @@ Sou Gabriel Martins Moraes Porto um desenvolvedor Web focado em criar interfaces
 
 Atualmente, faço parte da equipe de desenvolvimento do Pharus - Gestão de Eventos, a plataforma oficial de gerenciamento de eventos do IFNMG, onde atuo na construção e aprimoramento da interface do sistema.🚀
 
-<a href="https://www.linkedin.com/in/gabrielporto05/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/gabrielporto05/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
