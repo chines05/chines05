@@ -16,7 +16,7 @@ Atualmente, faço parte da equipe de desenvolvimento do Pharus - Gestão de Even
   <img aling='left' alt='GitHub Stars' height='144' src='https://github-readme-stats.vercel.app/api/top-langs/?username=chines05&layout=compact&theme=tokyonight&custom_title=Tecnologias&locale=pt-br' />
 </p>
 
-## Linguagens e Tecnologias:
+## Tecnologias e Ferramentas
 
 <div style='display: inline_block'><br />
   <img aling='center' alt='HTML' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' />
