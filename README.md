@@ -32,7 +32,7 @@
 
 Olá! Eu sou o **Gabriel Martins Moraes Porto** — desenvolvedor formado pelo **IFNMG** e focado em construir aplicações **funcionais, limpas e escaláveis**.
 
-Atualmente integro a equipe de desenvolvimento do **Pharus – Gestão de Eventos**, plataforma institucional oficial do IFNMG que atende **mais de 15 mil usuários**. Minha responsabilidade inclui criação e aprimoramento de funcionalidades, melhorias contínuas de UX, performance e acessibilidade.
+Atualmente integro a equipe de desenvolvimento do **Pharus – Gestão de Eventos**, plataforma institucional oficial do IFNMG. Minha responsabilidade inclui criação e aprimoramento de funcionalidades, melhorias contínuas de UX, performance e acessibilidade.
 
 Tenho experiência sólida com desenvolvimento **fullstack**, integrações via APIs REST, autenticação JWT e versionamento com Git/GitHub. Sempre organizo meu código com foco em **legibilidade e manutenibilidade**.
 
