@@ -16,7 +16,6 @@
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Porto-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/gabrielporto05/)
-  ![Profile Views](https://komarev.com/ghpvc/?username=chines05&color=667eea&style=for-the-badge&label=Profile+Views)
   
 </div>
 
