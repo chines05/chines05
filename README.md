@@ -4,9 +4,10 @@
 
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&width=500&height=70&lines=Ol%C3%A1!+%F0%9F%91%8B+Eu+sou+o+Gabriel;Frontend+%26+Backend+Dev;Mobile+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&width=500&height=70&lines=Ol%C3%A1!+%F0%9F%91%8B+Eu+sou+o+Gabriel;Front+End+Developer;Mobile+Developer" alt="Typing SVG" />
   </h1>
 </div>
+
 
 <div align="center">
   <h2>🧑‍💻 Gabriel Porto</h2>
@@ -19,25 +20,10 @@
   
 </div>
 
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=667eea&center=true&vCenter=true&width=600&lines=Desenvolvedor+formado+pelo+IFNMG;Construindo+apps+funcionais+e+escal%C3%A1veis;" alt="About me" />
-</div>
 
 ## 🚀 Sobre mim
+  Olá! Eu sou o Gabriel Martins Moraes Porto. Sou desenvolvedor Front End com experiência em construção de aplicações web funcionais e escaláveis, utilizando tecnologias modernas como React.js, Next.js e TypeScript. Tenho experiência em integração de APIs REST e versionamento com Git/GitHub. Busco sempre escrever código limpo, legível e de fácil manutenção. Gosto de trabalhar em equipe e sou focado em entregar projetos de alta qualidade.
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-Olá! Eu sou o **Gabriel Martins Moraes Porto** — desenvolvedor formado pelo **IFNMG** e focado em construir aplicações **funcionais, limpas e escaláveis**.
-
-Atualmente integro a equipe de desenvolvimento do **Pharus – Gestão de Eventos**, plataforma institucional oficial do IFNMG. Minha responsabilidade inclui criação e aprimoramento de funcionalidades, melhorias contínuas de UX, performance e acessibilidade.
-
-Tenho experiência sólida com desenvolvimento **fullstack**, integrações via APIs REST, autenticação JWT e versionamento com Git/GitHub. Sempre organizo meu código com foco em **legibilidade e manutenibilidade**.
-
-Sou prático, gosto de times colaborativos e acredito em projetos entregues com **consistência** e não perfeição forçada.
-
----
 
 ## 📊 Estatísticas
 
